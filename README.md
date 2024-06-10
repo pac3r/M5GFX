@@ -1,3 +1,5 @@
+*Fork to fix [this bug]([url](https://github.com/m5stack/M5GFX/issues/88)) with @alwint3r's fix*
+
 # M5GFX
 
 Graphics library for M5Stack series  
